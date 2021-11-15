@@ -43,6 +43,10 @@ PrefabInstance:
       value: BuildingShortModel
       objectReference: {fileID: 0}
     - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -55,6 +59,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
@@ -64,14 +72,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
-      propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
@@ -89,12 +89,11 @@ PrefabInstance:
     - target: {fileID: 2300024, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: ea9b690577e1e4787b7a0ba1e8bde702, type: 3}
+      objectReference: {fileID: 2100000, guid: 62061ad294b84d944ae19535f0fff948, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
 --- !u!4 &4353122324497231841 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 400056, guid: c2c0d74b41b8c4077b14073abca6504f, type: 3}
   m_PrefabInstance: {fileID: 4353122324497364313}
   m_PrefabAsset: {fileID: 0}
